@@ -1,1 +1,1 @@
-# Race_results_program
+This program finds out who won the race
